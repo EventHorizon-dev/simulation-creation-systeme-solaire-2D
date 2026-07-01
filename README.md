@@ -15,14 +15,13 @@ L'interface s'appuie sur un dégradé de couleurs dynamique qui reflète la mass
 - **Gris de roche spatiale** : Les poussières fines de la nébuleuse primitive.
 
 ## Prérequis
+
 Pour faire tourner la simulation sur votre machine, vous devez disposer de Python et de la bibliothèque Pygame.
 
 Installez Pygame facilement via votre terminal :
 ```bash
-pip install pygame```
-## Lancement & Commandes
+pip install pygame
 
-```bash
 # Étape 1 : Lancez le script principal dans votre terminal
 python "Simulation système solaire 2D.py"
 
