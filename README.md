@@ -20,3 +20,14 @@ Pour faire tourner la simulation sur votre machine, vous devez disposer de Pytho
 Installez Pygame facilement via votre terminal :
 ```bash
 pip install pygame```
+## Lancement & Commandes
+
+```bash
+# Étape 1 : Lancez le script principal dans votre terminal
+python "Simulation système solaire 2D.py"
+
+# Étape 2 : Pour quitter, appuyez sur la touche Échap ou fermez la fenêtre
+
+
+
+
