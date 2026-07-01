@@ -19,6 +19,7 @@ L'interface s'appuie sur un dégradé de couleurs dynamique qui reflète la mass
 Pour faire tourner la simulation sur votre machine, vous devez disposer de Python et de la bibliothèque Pygame.
 
 Installez Pygame facilement via votre terminal :
+
 ```bash
 pip install pygame
 
